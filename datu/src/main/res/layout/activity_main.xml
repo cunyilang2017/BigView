@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="test.bwie.com.datu.MainActivity">
+
+
+
+    <test.bwie.com.datu.BigView
+
+
+
+        android:id="@+id/img"
+
+
+
+
+        android:layout_width="wrap_content"
+
+
+
+
+        android:layout_height="wrap_content"/>
+
+
+
+
+
+
+    <!--&lt;!&ndash;&ndash;&gt;<test.bwie.com.datu.ImageSurfaceView&ndash;&gt;-->
+    <!--&lt;!&ndash;android:id="@+id/img"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_height="wrap_content" />-->
+</RelativeLayout>
